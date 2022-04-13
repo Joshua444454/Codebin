@@ -1,4 +1,4 @@
-# codebin
+# Codebin
 A simple pastebin made using nodejs
 
 
@@ -7,5 +7,5 @@ A simple pastebin made using nodejs
 * Download the repo or clone it  
 * Type command **npm install**
 * Type command **node app.js**
-* Happy Pasting 
+* Happy Pasting! 
 
